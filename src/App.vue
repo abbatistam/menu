@@ -1,9 +1,11 @@
 <script setup lang="ts">
   import Home from './components/Home.vue'
+  import Menu from './components/Menu.vue'
 </script>
 
 <template>
-    <Home />
+    
+    <Menu />
 </template>
 
 <style scoped>

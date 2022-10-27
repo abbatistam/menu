@@ -7,6 +7,41 @@
   src: url('./assets/fonts/CabinSketch-Regular.ttf');
 }
 
+@font-face{
+  font-family: 'poppins-semiBold';
+  src: url('./assets/fonts/Poppins-SemiBold.ttf');
+}
+
+@font-face{
+  font-family: 'poppins-medium';
+  src: url('./assets/fonts/Poppins-Medium.ttf');
+}
+
+@font-face{
+  font-family: 'freestyle';
+  src: url('./assets/fonts/freestyle.ttf');
+}
+
+@font-face{
+  font-family: 'raleway';
+  src: url('./assets/fonts/Raleway-Medium.ttf');
+}
+
+@font-face{
+  font-family: 'raleway-semiBold';
+  src: url('./assets/fonts/Raleway-SemiBold.ttf');
+}
+@font-face{
+  font-family: 'raleway-regular';
+  src: url('./assets/fonts/Raleway-Regular.ttf');
+}
+@font-face{
+  font-family: 'anton';
+  src: url('./assets/fonts/Anton.ttf');
+}
+
 *{
-  font-family: "chalk";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
